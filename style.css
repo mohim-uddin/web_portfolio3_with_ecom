@@ -2,8 +2,28 @@ body{
     margin: 0;
     padding: 0;
 }
-
+header{
+    background-color: #F8F9FA;
+}
 .nav{
     background-color: #F8F9FA;
     padding: 10px 0;
+}
+.slider{
+    background-color: #FCEBE9;
+    padding: 0 40px;
+}
+.buy_now{
+ background-color: #FF5498;
+ padding: 8px 30px;
+ border-radius: 10px;
+ color: white;
+ box-shadow: 5px 5px 20px gray;
+
+}
+.slider{
+    margin-bottom: 100px;
+}
+.slider-bottom-area{
+    margin-bottom: 100px;
 }
