@@ -22,14 +22,32 @@ header{
 
 }
 .slider{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .slider-bottom-area{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .container_s{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .backpack_c{
     margin-top: 50px;
+}
+
+.subscribe{
+    text-align: center;
+    background-color: #FCEBE9;
+    margin-bottom: 50px;
+    padding: 20px 30px;
+}
+.btn{
+    margin: auto;
+}
+.input_btn{
+    padding: 4px 35px;
+    border-radius: 3px;
+}
+footer{
+    text-align: center;
+    margin-bottom: 10px;
 }
